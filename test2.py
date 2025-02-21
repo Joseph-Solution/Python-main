@@ -8,3 +8,4 @@ print(a)
 tes = type(a)
 
 print(tes)
+# explain
